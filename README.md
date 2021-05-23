@@ -22,5 +22,5 @@ This project look to get insights of sparkify data to predict the churn of users
 
 [Features Transformation and pipelines for pyspark](https://www.analyticsvidhya.com/blog/2019/11/build-machine-learning-pipelines-pyspark/)
 
-
+[Fit models in pyspark](https://www.kaggle.com/tylerx/machine-learning-with-spark)
 
