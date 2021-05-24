@@ -24,3 +24,5 @@ This project look to get insights of sparkify data to predict the churn of users
 
 [Fit models in pyspark](https://www.kaggle.com/tylerx/machine-learning-with-spark)
 
+[Cv on pyspark](https://github.com/susanli2016/PySpark-and-MLlib/blob/master/Machine%20Learning%20PySpark%20and%20MLlib.ipynb)
+
