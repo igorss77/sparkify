@@ -7,14 +7,14 @@ Capstone project of udacity data scientist nanodegree
 This project look to get insights of sparkify data to predict the churn of users in this plataform.
 
 # Requirements
-*seaborn==0.8.1
-*scipy==1.2.1
-*scikit-learn==0.24.1
-*pandas==1.1.5
-*numpy==1.19.5
-*matplotlib==2.1.0
-*httpagentparser==1.9.1
-*spark==2.4.3
+* seaborn==0.8.1
+* scipy==1.2.1
+* scikit-learn==0.24.1
+* pandas==1.1.5
+* numpy==1.19.5
+* matplotlib==2.1.0
+* httpagentparser==1.9.1
+* spark==2.4.3
 
 # Project structure
 This project have two notebooks. The notebook called `Sparkify Data Analysis.ipynb` there is some data analysis and `Modeling - Sparkify.ipynb` there is the modeling part.
