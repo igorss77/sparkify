@@ -22,19 +22,14 @@ This project have two notebooks. The notebook called `Sparkify Data Analysis.ipy
 `workspace_utils.py` is a code to help the kernel at Udacity Workspace to keep it active.
 ::
 
-    project
-    ├── demo.py
+    sparkify
     ├── LICENCE.txt
-    ├── processes          
-    │   ├── area.py
-    │   └── bboxinout.py
-    ├── pywps.cfg          
+    ├── Sparkify Data Analysis.ipynb         
     ├── requirements.txt
-    ├── server.py          
-    ├── setup.py
-    ├── static
-    ├── templates
-    └── tests
+    ├── Modeling - Sparkify.ipynb        
+    ├── workspace_utils.py
+    ├── mini_sparkify_event_data.json
+
 # Results
 The Logistic Regression Model and GBTs overfitting the model with F1-Score very high, 0.99 and 0.97 respectively, so Random Forest got the best performance without overfitting 0.86.
 
