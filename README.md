@@ -4,7 +4,7 @@ Capstone project of udacity data scientist nanodegree
 ![alt text](https://i.pinimg.com/736x/5e/64/d8/5e64d895f7c72537ff5f4c97ba66e750.jpg "Sparkify")
 
 # About
-This project look to get insights of sparkify data to predict the churn of users in this plataform.
+This project look to get insights of sparkify data to predict the churn of users in this plataform. You can read more of this project on my [Medium Blog](https://ssantos-igor.medium.com/sparkify-understand-the-costumers-e081168d077c]
 
 # Requirements
 * seaborn==0.8.1
