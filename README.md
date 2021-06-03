@@ -28,7 +28,7 @@ This project have two notebooks. The notebook called `Sparkify Data Analysis.ipy
     ├── requirements.txt
     ├── Modeling - Sparkify.ipynb        
     ├── workspace_utils.py
-    ├── mini_sparkify_event_data.json
+
 
 # Results
 The Logistic Regression Model and GBTs overfitting the model with F1-Score very high, 0.99 and 0.97 respectively, so Random Forest got the best performance without overfitting 0.86.
