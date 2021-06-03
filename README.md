@@ -20,7 +20,21 @@ This project look to get insights of sparkify data to predict the churn of users
 This project have two notebooks. The notebook called `Sparkify Data Analysis.ipynb` there is some data analysis and `Modeling - Sparkify.ipynb` there is the modeling part.
 `mini_sparkify_event_data.json` is a sample with the data from Sparkify. 
 `workspace_utils.py` is a code to help the kernel at Udacity Workspace to keep it active.
+::
 
+    project
+    ├── demo.py
+    ├── LICENCE.txt
+    ├── processes          
+    │   ├── area.py
+    │   └── bboxinout.py
+    ├── pywps.cfg          
+    ├── requirements.txt
+    ├── server.py          
+    ├── setup.py
+    ├── static
+    ├── templates
+    └── tests
 # Results
 The Logistic Regression Model and GBTs overfitting the model with F1-Score very high, 0.99 and 0.97 respectively, so Random Forest got the best performance without overfitting 0.86.
 
